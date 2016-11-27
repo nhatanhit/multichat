@@ -11,6 +11,7 @@
 <b>HOW TO CONTRIBUTE.</b>
 <p>Free for you, you can checkout from "develop" branch, build some modules, and push again to develop</p>
 <p>Create pull request, i will merge it to "master" branch , and deploy it to : https://multichatdev.herokuapp.com/</p>
+<p>Refer this image for creating pull request : http://prnt.sc/dcf8o0 ,http://prnt.sc/dcf6qx </p>
 
 <b>THANKS FOR YOUR CONTRIBUTION.</b>
 
