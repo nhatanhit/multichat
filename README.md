@@ -4,7 +4,7 @@
 <p>You can refer tutorial in this project in this link: http://www.tamas.io/advanced-chat-using-node-js-and-socket-io-episode-1/</p>
 <p>Some technologies you may interested in : WebRTC, Reading text services of google.</p>
 
-<b>HOW TO START</b>
+<b>HOW TO START IN LOCALHOST</b>
 <p>npm install</p> 
 <p>node server.js</p>
 
