@@ -1,5 +1,5 @@
 <b>INTRODUCTION</b>
-<p>First, this is project is not mine =)).</p> 
+<p>First, this project is not mine =)).</p> 
 <p>I only clone from other repo and modify a little bit for running.</p> 
 <p>You can refer tutorial in this project in this link: http://www.tamas.io/advanced-chat-using-node-js-and-socket-io-episode-1/</p>
 <p>Some technologies you may interested in : WebRTC, Reading text services of google.</p>
