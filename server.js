@@ -289,7 +289,7 @@ io.sockets.on("connection", function (socket) {
 			people[socket.id].owns = id;
 			people[socket.id].inroom = id;
 			room.addPerson(socket.id);
-			socket.emit("update", "Welcome to " + room.name + ".");
+			socket.emit("update", "Welcome to " + room.name + ",please use english for chatting.");
 			socket.emit("sendRoomID", {id: id});
 			chatHistory[socket.room] = [];
 		} else {
